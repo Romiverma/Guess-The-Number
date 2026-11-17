@@ -46,7 +46,7 @@ A fun and interactive number guessing game built using **HTML, CSS, and JavaScri
 ```text
 Guess-The-Number/
 │
-├── index.html
+├── Project 3.html
 ├── Project 3.css
 ├── Project 3.js
 ├── screenshot.png
