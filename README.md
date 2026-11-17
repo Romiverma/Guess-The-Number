@@ -63,7 +63,7 @@ Guess-The-Number/
 
 2. Open the project folder.
 
-3. Open `index.html` in your browser.
+3. Open `Project 3.html` in your browser.
 
 ## 🧠 Concepts Practiced
 
@@ -82,8 +82,3 @@ Guess-The-Number/
 
 B.Tech – Computer Science & Engineering
 
-[GitHub](YOUR_GITHUB_PROFILE_LINK)
-
----
-
-⭐ If you like this project, consider giving it a star!
